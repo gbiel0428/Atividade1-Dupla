@@ -1,7 +1,66 @@
-/* RESET DO NAVEGADOR */
-
-* {
-    margin: 0;
+/* RESET DO NAV/* RESET DAS CONFIGURAÇÃOS DO  NAVEGADOR */
+ *{
+    margin: 0px;
     padding: 0;
     box-sizing: border-box;
+ }
+
+ body {
+    
+    background-color: rgb(167, 119, 57);
+    background-image:url("fundo.avif") ;
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    h2 {
+        text-align: unset;
+        font-size: 80px;
+        font-family:""
+
+}
+
+    p {
+        text-align: justify;
+        font-size: 25px;
+        margin: 10px 0px;
+}
+
+a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+
+img {
+      display: block;
+      max-width: 450px;
+      margin: 50px auto;
+}
+
+button {
+    display:block;
+    margin: 20px auto;
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 13px;
+    border-radius: 20px;
+    background-color: black;
+    
+}
+h3 {
+        text-align: unset;
+        font-size: 50px;
+        font-family:""
+}
+h4 {
+        text-align: unset;
+        font-size: 45px;
+        font-family:""
+
 }
