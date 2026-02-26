@@ -30,6 +30,8 @@ h2{
 p{
     font-size: 45px;
     color: rgb(0, 0, 0);
+    text-indent: 1.5em;
+    text-align: justify;
 }
 
 button{
@@ -44,4 +46,12 @@ button{
 a{
     color: red;
     font-size: 20px;
+}
+
+.pagina{
+    display: block;
+    width: 600px;
+    height: 500px;
+    margin: 10px auto;
+    
 }
